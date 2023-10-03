@@ -1,2 +1,2 @@
 # MUSE_SITELLE_Mets
-The code in this repository utilizes data from the PHANGS-MUSE Nebular catalog and data obtained from the SITELLE spectrograph at the CFHT to directly calculate metallicities in four nearby galaxies.
+The code in this repository utilizes data from the PHANGS-MUSE Nebular catalog and data obtained from the SITELLE spectrograph at the CFHT to directly calculate metallicities in HII regions of nearby galaxies. I present code from this project in the **Framework_code** file and the **Sandboxes** file. The code used to produce final results are shown in the **Framework_code** file and the code used to make plots and refine my methods are presented in **Sandboxes**. 
